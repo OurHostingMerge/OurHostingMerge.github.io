@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc513548.css",
+    "main.js": "/static/js/main.223e8d02.js",
+    "static/media/video-2.mp4": "/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/portada_mandala.png": "/static/media/portada_mandala.2c6265d74c2359ceae56.png",
+    "static/media/img-3.jpg": "/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/index.html",
+    "main.fc513548.css.map": "/static/css/main.fc513548.css.map",
+    "main.223e8d02.js.map": "/static/js/main.223e8d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc513548.css",
+    "static/js/main.223e8d02.js"
+  ]
+}

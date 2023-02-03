@@ -8,7 +8,8 @@
 .home,
 .Nicoperez12,
 .TTrincado,
-.Projects {
+.Projects,
+.ToryFuyu {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -36,6 +37,15 @@
 
 .Projects {
   background-image: url('../src/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.ToryFuyu {
+  background-image: url('../src/images/tory_fuyu.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

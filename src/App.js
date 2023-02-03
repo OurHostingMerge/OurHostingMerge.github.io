@@ -6,6 +6,7 @@ import './App.css';
 import Nicoperez12 from "./components/pages/Nicoperez12";
 import TTrincado from "./components/pages/TTrincado";
 import Projects from "./components/pages/Projects";
+import ToryFuyu from "./components/pages/ToryFuyu.js";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/Nicoperez12" element={<Nicoperez12 />} />
           <Route path="/TTrincado" element={<TTrincado />} />
           <Route path="/Projects" element={<Projects />} />
+          <Route path="/ToryFuyu" element={<ToryFuyu />} />
         </Routes>
       </Router>
 
