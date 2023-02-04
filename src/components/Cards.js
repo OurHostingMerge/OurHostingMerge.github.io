@@ -10,16 +10,16 @@ function Cards() {
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem
-                            src= {require('../images/portada_mandala.png')}
+                            src={require('../images/portada_mandala.png')}
                             text='Paint mandalas with your favorite colors'
                             label='To Relax'
                             path='/mandalas'
                         />
                         <CardItem
-                            src={require('../images/img-2.jpg')}
-                            text='Travel through the Islands of Bali in a Private Cruise'
-                            label='Luxury'
-                            path='/services'
+                            src={require('../images/flappy_bird.webp')}
+                            text='Watch as an AI teaches itself how to dominate Flappy bird'
+                            label='Technology'
+                            path='/flappy-bird-AI'
                         />
                     </ul>
                     <ul className='cards__items'>

@@ -6,7 +6,7 @@ import "./HeroSection.css"
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src={require('../videos/video-2.mp4')} autoPlay loop muted />
+            <video src={require('../videos/video-1.mp4')} autoPlay loop muted />
             <h1 style={{ color: 'white' }}> ¿Cual es la mejor mascota? </h1>
             <p style={{ color: 'white' }}> CLARAMENTE TORY DIOS</p>
             <div className="hero-btns">
