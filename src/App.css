@@ -9,7 +9,8 @@
 .Nicoperez12,
 .TTrincado,
 .Projects,
-.ToryFuyu {
+.ToryFuyu,
+.Vidal {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -46,6 +47,15 @@
 
 .ToryFuyu {
   background-image: url('../src/images/tory_fuyu.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.Vidal {
+  background-image: url('../src/images/vidal-2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -7,6 +7,7 @@ import Nicoperez12 from "./components/pages/Nicoperez12";
 import TTrincado from "./components/pages/TTrincado";
 import Projects from "./components/pages/Projects";
 import ToryFuyu from "./components/pages/ToryFuyu.js";
+import Vidal from "./components/pages/Vidal.js";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/TTrincado" element={<TTrincado />} />
           <Route path="/Projects" element={<Projects />} />
           <Route path="/ToryFuyu" element={<ToryFuyu />} />
+          <Route path="/Vidal" element={<Vidal />} />
         </Routes>
       </Router>
 
