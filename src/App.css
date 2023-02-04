@@ -10,7 +10,10 @@
 .TTrincado,
 .Projects,
 .ToryFuyu,
-.Vidal {
+.Vidal,
+.FlappyBirdAI,
+.Nito,
+.Mandala {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -61,4 +64,28 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+}
+
+.Nito {
+  background-image: url('../src/images/baby_oct.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.FlappyBirdAI {
+  background-image: url('../src/images/flappy_bird.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.Mandala{
+  /*background-image: url('../src/images/flappy_bird.jpg');*/
+  margin-top: -250px;
+  color: black;
 }

@@ -8,6 +8,9 @@ import TTrincado from "./components/pages/TTrincado";
 import Projects from "./components/pages/Projects";
 import ToryFuyu from "./components/pages/ToryFuyu.js";
 import Vidal from "./components/pages/Vidal.js";
+import FlappyBirdAI from "./components/pages/FlappyBirdAI.js";
+import Nito from "./components/pages/Nito.js";
+import Mandala from "./components/pages/Mandala.js";
 
 function App() {
   return (
@@ -21,6 +24,9 @@ function App() {
           <Route path="/Projects" element={<Projects />} />
           <Route path="/ToryFuyu" element={<ToryFuyu />} />
           <Route path="/Vidal" element={<Vidal />} />
+          <Route path="/FlappyBirdAI" element={<FlappyBirdAI />} />
+          <Route path="/Nito" element={<Nito />} />
+          <Route path="/Mandala" element={<Mandala />} />
         </Routes>
       </Router>
 

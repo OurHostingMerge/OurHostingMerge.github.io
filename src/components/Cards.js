@@ -13,13 +13,13 @@ function Cards() {
                             src={require('../images/portada_mandala.png')}
                             text='Paint mandalas with your favorite colors'
                             label='To Relax'
-                            path='/mandalas'
+                            path='/Mandala'
                         />
                         <CardItem
-                            src={require('../images/flappy_bird.webp')}
+                            src={require('../images/flappy_bird.jpg')}
                             text='Watch as an AI teaches itself how to dominate Flappy bird'
                             label='Technology'
-                            path='/flappy-bird-AI'
+                            path='/FlappyBirdAI'
                         />
                     </ul>
                     <ul className='cards__items'>
