@@ -29,7 +29,8 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        OurHostingMerge <i className="fas fa-users-cog"></i>
+                        OurHostingMerge <img src={require("../images/ohm.png")} alt="logo" width={25} height={25} />
+
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -55,7 +56,7 @@ function Navbar() {
                                 Projects
                             </Link>
                         </li>
-                        
+
                     </ul>
                     {button && <Button buttonStyle='btn-outline'>Projects</Button>}
                 </div>
