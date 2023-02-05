@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a92414b.css",
-    "main.js": "/static/js/main.8775117e.js",
+    "main.css": "/static/css/main.9578ee41.css",
+    "main.js": "/static/js/main.ec4dceeb.js",
     "static/media/video-1.mp4": "/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/tory_fuyu.jpg": "/static/media/tory_fuyu.94773413e88099f97894.jpg",
@@ -9,15 +9,17 @@
     "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/Vidalsiendoweon2.jpg": "/static/media/Vidalsiendoweon2.62c87cb311908f06e592.jpg",
+    "static/media/tory-feo.jpg": "/static/media/tory-feo.8a075dd2fb35558cf024.jpg",
+    "static/media/fuyu2.jpeg": "/static/media/fuyu2.4158fe00d100f64c42e1.jpeg",
     "static/media/baby_oct.jpg": "/static/media/baby_oct.84937e674fe2ad5c2668.jpg",
     "static/media/vidal-2.jpg": "/static/media/vidal-2.f7ac3265c51ac32f4ae6.jpg",
     "static/media/flappy_bird.jpg": "/static/media/flappy_bird.844d3e8964a59d03a073.jpg",
     "index.html": "/index.html",
-    "main.0a92414b.css.map": "/static/css/main.0a92414b.css.map",
-    "main.8775117e.js.map": "/static/js/main.8775117e.js.map"
+    "main.9578ee41.css.map": "/static/css/main.9578ee41.css.map",
+    "main.ec4dceeb.js.map": "/static/js/main.ec4dceeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a92414b.css",
-    "static/js/main.8775117e.js"
+    "static/css/main.9578ee41.css",
+    "static/js/main.ec4dceeb.js"
   ]
 }
