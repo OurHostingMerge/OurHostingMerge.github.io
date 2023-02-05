@@ -13,6 +13,8 @@
 .Vidal,
 .FlappyBirdAI,
 .Nito,
+.Tory,
+.Fuyu,
 .Mandala {
   display: flex;
   height: 90vh;
@@ -77,6 +79,24 @@
 
 .FlappyBirdAI {
   background-image: url('../src/images/flappy_bird.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.Tory {
+  background-image: url('../src/images/tory-feo.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.Fuyu {
+  background-image: url('../src/images/fuyu2.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

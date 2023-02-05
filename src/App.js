@@ -11,6 +11,8 @@ import Vidal from "./components/pages/Vidal.js";
 import FlappyBirdAI from "./components/pages/FlappyBirdAI.js";
 import Nito from "./components/pages/Nito.js";
 import Mandala from "./components/pages/Mandala.js";
+import Tory from "./components/pages/Tory.js";
+import Fuyu from "./components/pages/Fuyu.js";
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
           <Route path="/FlappyBirdAI" element={<FlappyBirdAI />} />
           <Route path="/Nito" element={<Nito />} />
           <Route path="/Mandala" element={<Mandala />} />
+          <Route path="/Tory" element={<Tory />} />
+          <Route path="/Fuyu" element={<Fuyu />} />
         </Routes>
       </Router>
 
