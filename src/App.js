@@ -13,6 +13,7 @@ import Nito from "./components/pages/Nito.js";
 import Mandala from "./components/pages/Mandala.js";
 import Tory from "./components/pages/Tory.js";
 import Fuyu from "./components/pages/Fuyu.js";
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path="/Tory" element={<Tory />} />
           <Route path="/Fuyu" element={<Fuyu />} />
         </Routes>
+        <Footer />
       </Router>
 
     </>
