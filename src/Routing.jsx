@@ -8,11 +8,12 @@ import Projects from "./components/pages/Projects.jsx";
 import ToryFuyu from "./components/pages/ToryFuyu.jsx";
 import Vidal from "./components/pages/Vidal.jsx";
 import FlappyBirdAI from "./components/pages/FlappyBirdAI.jsx";
-import Nito from "./components/pages/Nito.jsx";
+import InstagramUnfollowers from "./components/pages/InstagramUnfollowers.jsx";
 import Mandala from "./components/pages/Mandala.jsx";
 import Tory from "./components/pages/Tory.jsx";
 import Fuyu from "./components/pages/Fuyu.jsx";
 import Footer from "./components/Footer.jsx"
+
 
 function Routing() {
   return (
@@ -28,10 +29,10 @@ function Routing() {
           <Route path="/ToryFuyu" element={<ToryFuyu />} />
           <Route path="/Vidal" element={<Vidal />} />
           <Route path="/FlappyBirdAI" element={<FlappyBirdAI />} />
-          <Route path="/Nito" element={<Nito />} />
           <Route path="/Mandala" element={<Mandala />} />
           <Route path="/Tory" element={<Tory />} />
           <Route path="/Fuyu" element={<Fuyu />} />
+          <Route path="/InstagramUnfollowers" element={<InstagramUnfollowers />} />
         </Routes>
         <Footer />
       </BrowserRouter>

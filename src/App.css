@@ -15,93 +15,54 @@
 .Nito,
 .Tory,
 .Fuyu,
+.InstagramUnfollowers,
 .Mandala {
   display: flex;
   height: 90vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.InstagramUnfollowers {
+  background-image: url('../src/images/instagram_blacklogo.png');
 }
 
 .Nicoperez12 {
   background-image: url('../src/images/img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .TTrincado {
   background-image: url('../src/images/img-1.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .Projects {
   background-image: url('../src/images/img-8.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .ToryFuyu {
   background-image: url('../src/images/tory_fuyu.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .Vidal {
   background-image: url('../src/images/vidal-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.Nito {
-  background-image: url('../src/images/baby_oct.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .FlappyBirdAI {
   background-image: url('../src/images/flappy_bird.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .Tory {
   background-image: url('../src/images/tory-feo.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .Fuyu {
   background-image: url('../src/images/fuyu2.jpeg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .Mandala {
