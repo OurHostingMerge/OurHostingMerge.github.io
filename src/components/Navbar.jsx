@@ -30,7 +30,7 @@ function Navbar() {
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
                         OurHostingMerge &#937;
-                        
+
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -58,7 +58,7 @@ function Navbar() {
                         </li>
 
                     </ul>
-                    {button && <Button buttonLink= '/Projects' buttonStyle='btn-outline'>Projects</Button>}
+                    {button && <Button buttonLink='/Projects' buttonStyle='btn-outline'>Projects</Button>}
                 </div>
             </nav>
         </>

@@ -1,0 +1,23 @@
+.container {
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.container::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+.section-1 {
+    height: 100vh;
+    scroll-snap-align: start;
+}
+
+.section-2 {
+    height: 216vh;
+    scroll-snap-align: start;
+}

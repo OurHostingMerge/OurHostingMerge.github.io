@@ -2,7 +2,7 @@ import './Cards.css';
 import CardItem from './CardItem';
 import Mandala from '../images/portada_mandala.png';
 import FlappyBird from '../images/flappy_bird.jpg';
-import InstagramLogo from '../images/instagram_blacklogo.png';
+import InstagramLogo from '../images/unfollowers.jpeg';
 import Vidal from '../images/Vidalsiendoweon2.jpg';
 
 function Cards() {

@@ -1,5 +1,9 @@
 import './Footer.css';
 import { Link } from 'react-router-dom';
+import {AiFillInstagram} from 'react-icons/ai';
+import {AiFillFacebook} from 'react-icons/ai';
+import {AiFillYoutube} from 'react-icons/ai';
+import { HiOutlineUsers } from "react-icons/hi";
 
 function Footer() {
     return (
@@ -14,16 +18,16 @@ function Footer() {
                     </div>
                     <div className='footer-link-items'>
                         <h2>Contact Us</h2>
-                        <Link to='/'>Contact</Link>
+                        <Link to='/'>Contact <HiOutlineUsers/></Link>
                         <Link to='/'>Support</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/'>Instagram</Link>
-                        <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
+                        <Link to='/'>Instagram <AiFillInstagram/> </Link>
+                        <Link to='/'>Facebook <AiFillFacebook/>  </Link>
+                        <Link to='/'>Youtube <AiFillYoutube/> </Link>
                     </div>
                 </div>
             </div>
